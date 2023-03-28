@@ -1,4 +1,4 @@
-import Image from 'next/image';
+// import Image from 'next/image';
 import { Tab } from '@headlessui/react';
 import clsx from 'clsx';
 

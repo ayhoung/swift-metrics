@@ -24,7 +24,7 @@ export function CallToAction() {
                       Get started today
                     </h2>
                     <p className="mt-4 text-lg tracking-tight text-white">
-                      It's time to measuring your business's performance.
+                      Its time to measuring your business performance.
                         <br/>Start today for free, no credit card required.
                     </p>
                     <Button href="/register" color="white" className="mt-10">
